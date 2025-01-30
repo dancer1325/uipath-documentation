@@ -39,7 +39,7 @@ https://docs.uipath.com/
         * [Building API Requests](orchestrator.automation-cloud.latest.api-guide.building-api-requests.md)
         * [Permissions Per Endpoint](orchestrator.automation-cloud.latest.api-guide.permissions-per-endpoint.md)
         * [Response Codes](orchestrator.automation-cloud.latest.api-guide.response-codes.md)
-        * TODO:
+        * [Rate limits and large data field usage optimization](orchestrator.automation-cloud.latest.api-guide.rate-limits.md)
       * [Swagger Definition](orchestrator.automation-cloud.latest.api-guide.read-me.md)
         * [Authorizing API Calls in Swagger](orchestrator.automation-cloud.latest.api-guide.authorizing-api-calls-in-swagger.md)
         * Managing Logical Resources
