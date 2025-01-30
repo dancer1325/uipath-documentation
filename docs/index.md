@@ -35,7 +35,7 @@ https://docs.uipath.com/
       * Getting Started
         * [About OData and References](orchestrator.automation-cloud.latest.api-guide.about-odata-and-references.md)
         * [Enumerated Types](https://docs.uipath.com/orchestrator/automation-cloud/latest/api-guide/enumerated-types)
-        * [Authenticating](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
+        * [Authenticating](orchestrator.automation-cloud.latest.api-guide.authenticating.md)
         * [Building API Requests](orchestrator.automation-cloud.latest.api-guide.building-api-requests.md)
         * [Permissions Per Endpoint](orchestrator.automation-cloud.latest.api-guide.permissions-per-endpoint.md)
         * [Response Codes](orchestrator.automation-cloud.latest.api-guide.response-codes.md)
