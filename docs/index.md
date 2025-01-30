@@ -12,6 +12,8 @@ https://docs.uipath.com/
         * TODO:
       * Authentication
         * [Authentication methods](automation-cloud.automation-cloud.latest.api-guide.authentication-methods.md)
+        * [Personal Access Tokens](automation-cloud.automation-cloud.latest.api-guide.personal-access-tokens.md)
+          * TODO:
         * TODO:
       * Scopes and permissions
       * Platform Management APIs
