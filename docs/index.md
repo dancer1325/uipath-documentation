@@ -36,8 +36,9 @@ https://docs.uipath.com/
         * TODO:
         * [Authenticating](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
         * TODO:
-      * Swagger Definition
-        * TODO:
+      * [Swagger Definition](orchestrator.automation-cloud.latest.api-guide.read-me.md)
+        * [Authorizing API Calls in Swagger](orchestrator.automation-cloud.latest.api-guide.authorizing-api-calls-in-swagger.md)
+        * Managing Logical Resources
       * Orchestrator APIs
         * TODO:
     * Mobile User Guide
