@@ -11,6 +11,8 @@ https://docs.uipath.com/
       * [Getting started](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
         * TODO:
       * Authentication
+        * [Authentication methods](automation-cloud.automation-cloud.latest.api-guide.authentication-methods.md)
+        * TODO:
       * Scopes and permissions
       * Platform Management APIs
     * SAP Build Process Automation, Foundation add-on by UiPath
