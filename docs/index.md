@@ -31,5 +31,15 @@ https://docs.uipath.com/
       * Best practices
         * TODO:
       * TODO:
-    * TODO:
+    * API Guide
+      * Getting Started
+        * TODO:
+        * [Authenticating](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
+        * TODO:
+      * Swagger Definition
+        * TODO:
+      * Orchestrator APIs
+        * TODO:
+    * Mobile User Guide
+      * TODO:
   * TODO:
