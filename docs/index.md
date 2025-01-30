@@ -36,6 +36,7 @@ https://docs.uipath.com/
         * [About OData and References](orchestrator.automation-cloud.latest.api-guide.about-odata-and-references.md)
         * [Enumerated Types](https://docs.uipath.com/orchestrator/automation-cloud/latest/api-guide/enumerated-types)
         * [Authenticating](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
+        * [Building API Requests](orchestrator.automation-cloud.latest.api-guide.building-api-requests.md)
         * TODO:
       * [Swagger Definition](orchestrator.automation-cloud.latest.api-guide.read-me.md)
         * [Authorizing API Calls in Swagger](orchestrator.automation-cloud.latest.api-guide.authorizing-api-calls-in-swagger.md)
