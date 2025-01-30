@@ -45,6 +45,8 @@ https://docs.uipath.com/
         * Managing Logical Resources
       * Orchestrator APIs
         * TODO:
+        * [Transactions Requests](orchestrator.automation-cloud.latest.api-guide.transactions-requests.md)
+        * TODO:
     * Mobile User Guide
       * TODO:
   * TODO:
