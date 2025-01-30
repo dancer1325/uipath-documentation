@@ -3,6 +3,18 @@ https://docs.uipath.com/
 * Platform
   * [Overview](overview.md)
     * TODO:
+  * Automation Cloud
+    * [Release notes](https://docs.uipath.com/automation-cloud/automation-cloud/latest/release-notes/release-notes-2025)
+    * Admin guide
+      * TODO:
+    * API guide
+      * [Getting started](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
+        * TODO:
+      * Authentication
+      * Scopes and permissions
+      * Platform Management APIs
+    * SAP Build Process Automation, Foundation add-on by UiPath
+      * TODO:
   * TODO:
 * Discover
   * TODO:
