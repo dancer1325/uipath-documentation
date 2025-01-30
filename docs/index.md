@@ -33,6 +33,7 @@ https://docs.uipath.com/
       * TODO:
     * API Guide
       * Getting Started
+        * [About OData and References](orchestrator.automation-cloud.latest.api-guide.about-odata-and-references.md)
         * TODO:
         * [Authenticating](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
         * TODO:
