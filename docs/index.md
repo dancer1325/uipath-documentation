@@ -13,6 +13,7 @@ https://docs.uipath.com/
         * TODO:
       * Authentication
         * [Authentication methods](automation-cloud.automation-cloud.latest.api-guide.authentication-methods.md)
+        * [External Applications (OAuth)](automation-cloud.automation-cloud.latest.api-guide.accessing-uipath-resources-using-external-applications.md)
         * [Personal Access Tokens](automation-cloud.automation-cloud.latest.api-guide.personal-access-tokens.md)
           * [Using Personal Access Tokens for API Authentication](automation-cloud.automation-cloud.latest.api-guide.using-personal-access-tokens-for-api-authentication.md)
           * TODO:
