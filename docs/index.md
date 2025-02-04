@@ -9,6 +9,7 @@ https://docs.uipath.com/
       * TODO:
     * API guide
       * [Getting started](automation-cloud.automation-cloud.latest.api-guide.about-this-guide.md)
+        * [Available resources](automation-cloud.automation-cloud.latest.api-guide.available-resources.md)
         * TODO:
       * Authentication
         * [Authentication methods](automation-cloud.automation-cloud.latest.api-guide.authentication-methods.md)
