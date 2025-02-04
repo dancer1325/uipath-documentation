@@ -47,6 +47,19 @@ https://docs.uipath.com/automation-cloud/automation-cloud/latest/api-guide/acces
 
 * Declaring scopes
   * TODO:
+  * organization-scoped permissions
+    * | admin level
+      * TODO: 
+    * | developer level 
+      * use `OR.Machines.View` | "*/identity_/connect/token"
+  * fine-grained permissions
+    * | admin level
+      * TODO:
+    * | developer level
+      * requirements
+        * use `OR.Default` | "*/identity_/connect/token"
+          * == wildcard scope / -- depends on -- its assigned role | SPECIFIC tenants or folders
+  * TODO:
 
 * Confidential apps + user scopes
   * == authorization code flow
@@ -58,7 +71,19 @@ https://docs.uipath.com/automation-cloud/automation-cloud/latest/api-guide/acces
 
 * Confidential apps + app scopes
   * == client credentials flow
-  * TODO:
+  ![OAuth client credentials flow](static/client.credentials.flow.png)
+    * see [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749#section-4.4)
+    * steps
+      * POST https://cloud.uipath.com/{organizationName}/identity_/connect/token?grant_type=client_credentials&client_id={{app_id}}&client_secret={{app_secret}}&scope={{scopes}}
+        * `client_id`
+          * == unique identifier /
+            * -- assigned to the -- application | register the app
+            * -- MUST contain the -- App ID
+        * `client_secret`
+          * -- MUST contain the -- App Secret
+        * `scope`
+          * == `scope1 scope2 scope3 ...`
+            * _Example:_ `OR.Machines.View OR.Default`
 
 # Using the access token
 
