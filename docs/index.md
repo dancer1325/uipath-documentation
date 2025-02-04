@@ -27,6 +27,22 @@ https://docs.uipath.com/
   * TODO:
 * Automate
   * TODO:
+  * Document Understanding
+    * [Release Notes](https://docs.uipath.com/document-understanding/automation-cloud/latest/release-notes/release-notes-2025)
+    * User Guide
+      * TODO:
+    * Modern Projects User Guide
+      * TODO:
+    * API Guide
+      * [Getting Started](document-understanding.automation-cloud.latest.api-guide.api-overview.md)
+        * [Authentication and Authorization](document-understanding.automation-cloud.latest.api-guide.api-authentication.md)
+          * [Using The Credentials for HTTP Requests](document-understanding.automation-cloud.latest.api-guide.using-the-credentials-with-the-external-application.md)
+          * TODO:
+        * [Limits & Quota](https://docs.uipath.com/document-understanding/automation-cloud/latest/api-guide/limits-and-quota)
+      * Examples
+        * TODO:
+      * TODO:
+  * TODO:
 * Operate
   * TODO:
   * Orchestrator
