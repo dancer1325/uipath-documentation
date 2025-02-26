@@ -25,8 +25,22 @@ https://docs.uipath.com/
   * TODO:
 * Discover
   * TODO:
-* Automate
+* [Automate](automate.overview.md)
   * TODO:
+  * [Activities](https://docs.uipath.com/activities/other/latest)
+    * TODO:
+    * [IT Automation Activities](activities.other.latest.it-automation.it-automation-overview.md)
+      * TODO:
+      * [Azure](activities.other.latest.it-automation.about-the-azure-activities-pack.md)
+        * [Release Notes](https://docs.uipath.com/activities/other/latest/it-automation/release-notes-azure-activities)
+        * [Project Compatibility](https://docs.uipath.com/activities/other/latest/it-automation/azure-project-compatibility)
+        * Activities
+          * TODO:
+          * Azure Scope
+          * TODO:
+        * TODO:
+      * TODO:
+    * TODO:
   * Document Understanding
     * [Release Notes](https://docs.uipath.com/document-understanding/automation-cloud/latest/release-notes/release-notes-2025)
     * User Guide
