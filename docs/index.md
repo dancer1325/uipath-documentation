@@ -57,6 +57,19 @@ https://docs.uipath.com/
         * TODO:
       * TODO:
   * TODO:
+  * Robot
+    * [Release notes](https://docs.uipath.com/robot/standalone/latest/release-notes/2025)
+    * [Admin guide](robot.standalone.latest.admin-guide.introduction.md)
+      * Understanding UiPath Robot
+        * [Attended vs. unattended](robot.standalone.latest.admin-guide.attended-vs-unattended.md)
+          * Attended automations
+          * TODO:
+        * TODO:
+      * TODO:
+    * Developer guide
+      * [Robot JS SDK](robot.standalone.latest.developer-guide.about-the-robot-javascript-sdk.md)
+        * TODO:
+  * TODO:
 * Operate
   * TODO:
   * Orchestrator
@@ -67,6 +80,9 @@ https://docs.uipath.com/
         * TODO:
       * Best practices
         * TODO:
+      * [Tenant](orchestrator.automation-cloud.latest.user-guide.about-the-tenant-context.md)
+        * TODO:
+        * [Settings](orchestrator.automation-cloud.latest.user-guide.configuring-tenant-settings.md)
       * TODO:
     * API Guide
       * Getting Started
